@@ -9,3 +9,5 @@ mi Nombre es Juan Pablo
 Adicionamos usuario y correo
 
 Fecha 2025
+
+Comenzando con Git
