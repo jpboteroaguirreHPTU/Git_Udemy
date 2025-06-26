@@ -11,3 +11,5 @@ Adicionamos usuario y correo
 Fecha 2025
 
 Comenzando con Git
+
+git show agregado
