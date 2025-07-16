@@ -1,2 +1,2 @@
 # AuditCursoGit
-Auditoria para el curso de GIt
+Este repositorio es para el curso Git & Github desde cero a experto
